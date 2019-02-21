@@ -35,7 +35,7 @@
 		<Row>
 			<ModifierId>TRAIT_BUILDER_DISTRICT_PERCENT</ModifierId>
 			<Name>Amount</Name>
-			<Value>20</Value>
+			<Value>100</Value>
 		</Row>
 	</ModifierArguments>
 	<Civilizations>

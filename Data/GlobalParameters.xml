@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <GameInfo>
 	<GlobalParameters>
 		
@@ -27,6 +27,8 @@
 		<Replace Name="ARCHAEOLOGY_SITES_PER_CIV_SEA" Value="2" />
 		
 		<Replace Name="AVOID_FEATURE_MAX_MULTIPLIER" Value="0.004" />
+		
+		<Replace Name="AVOID_FEATURE_MAX_THRESHOLD" Value="24" />
 		
 		<Replace Name="BARBARIAN_BOLDNESS_PER_CAMP_ATTACK" Value="-30" />
 		
@@ -63,6 +65,8 @@
 		<Replace Name="CITY_AMENITIES_FOR_FREE" Value="1" />
 		
 		<Replace Name="CITY_CAPTURED_DAMAGE_PERCENTAGE" Value="50" />
+		
+		<Replace Name="CITY_CENTER_TRAIN_WHEN_CONTAMINATED" Value="false" />
 		
 		<Replace Name="CITY_FOOD_CONSUMPTION_PER_POPULATION" Value="2" />
 		
@@ -236,6 +240,10 @@
 		
 		<Replace Name="DIPLOMACY_SIGNIFICANTLY_LOPSIDED_DEAL" Value="10" />
 		
+		<Replace Name="DIPLOMACY_VISIBILITY_TO_SEE_THREAT" Value="2" />
+		
+		<Replace Name="DIPLOMACY_VISIBILITY_TO_SEE_TRUST" Value="3" />
+		
 		<Replace Name="DIPLOMACY_WAR_LAST_FOREVER" Value="false" />
 		
 		<Replace Name="DIPLOMACY_WAR_MIN_TURNS" Value="10" />
@@ -276,7 +284,7 @@
 		
 		<Replace Name="EXPERIENCE_MAX_LEVEL" Value="6" />
 		
-		<Replace Name="EXPERIENCE_MAXIMUM_ONE_COMBAT" Value="8" />
+		<Replace Name="EXPERIENCE_MAXIMUM_ONE_COMBAT" Value="10" />
 		
 		<Replace Name="EXPERIENCE_NEEDED_FOR_NEXT_LEVEL_MULTIPLIER" Value="5" />
 		
@@ -311,6 +319,8 @@
 		<Replace Name="GOLD_PERCENTAGE_YIELD_PER_UNASSIGNED_POP" Value="50" />
 		
 		<Replace Name="GOLD_PURCHASE_MULTIPLIER" Value="2" />
+		
+		<Replace Name="GOVERNMENT_ALLOW_EMPTY_POLICY_SLOTS" Value="false" />
 		
 		<Replace Name="GOVERNMENT_BASE_ANARCHY_TURNS" Value="2" />
 		
@@ -488,11 +498,11 @@
 		
 		<Replace Name="SNOW_ICE_FERTILITY" Value="0" />
 		
-		<Replace Name="START_DISTANCE_MAJOR_CIVILIZATION" Value="9" />
+		<Replace Name="START_DISTANCE_MAJOR_CIVILIZATION" Value="12" />
 		
 		<Replace Name="START_DISTANCE_MAJOR_NATURAL_WONDER" Value="3" />
 		
-		<Replace Name="START_DISTANCE_MINOR_CIVILIZATION_START" Value="5" />
+		<Replace Name="START_DISTANCE_MINOR_CIVILIZATION_START" Value="7" />
 		
 		<Replace Name="START_DISTANCE_MINOR_MAJOR_CIVILIZATION" Value="7" />
 		
@@ -500,7 +510,7 @@
 		
 		<Replace Name="START_DISTANCE_RANGE_MAJOR" Value="2" />
 		
-		<Replace Name="START_DISTANCE_RANGE_MINOR" Value="2" />
+		<Replace Name="START_DISTANCE_RANGE_MINOR" Value="4" />
 		
 		<Replace Name="START_FERTILITY_WEIGHT_BONUS" Value="75" />
 		
@@ -508,9 +518,9 @@
 		
 		<Replace Name="START_FERTILITY_WEIGHT_LUXURY" Value="250" />
 		
-		<Replace Name="START_LEGENDARY_BONUS_QUANTITY" Value="2" />
+		<Replace Name="START_LEGENDARY_BONUS_QUANTITY" Value="5" />
 		
-		<Replace Name="START_LEGENDARY_LUXURY_QUANTITY" Value="1" />
+		<Replace Name="START_LEGENDARY_LUXURY_QUANTITY" Value="3" />
 		
 		<Replace Name="STRATEGIC_RESOURCE_FERTILITY" Value="0" />
 		
@@ -572,6 +582,8 @@
 		
 		<Replace Name="UNIT_CORPS_COST_MODIFIER" Value="1.5" />
 		
+		<Replace Name="UNLOCK_EMBARKATION" Value="false" />
+		
 		<Replace Name="UPGRADE_BASE_COST" Value="10" />
 		
 		<Replace Name="UPGRADE_MINIMUM_COST" Value="15" />
@@ -619,6 +631,10 @@
 		<Replace Name="WARMONGER_STOP_OCCUPYING_REFUND_PERCENT" Value="-100" />
 		
 		<Replace Name="WONDER_FREE_TILES_UPON_COMPLETION" Value="2" />
+		
+		<Replace Name="YIELD_FOOD_CITY_TERRAIN_REPLACE" Value="2" />
+		
+		<Replace Name="YIELD_PRODUCTION_CITY_TERRAIN_REPLACE" Value="1" />
  
 	</GlobalParameters>
 </GameInfo>

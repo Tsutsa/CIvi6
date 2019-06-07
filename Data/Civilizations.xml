@@ -722,13 +722,13 @@
 		<Row>
 			<ModifierId>TRAIT_CIVIC_BOOST</ModifierId>
 			<Name>Amount</Name>
-			<Value>10</Value>
+			<Value>99</Value>
 			<Extra>-1</Extra>
 		</Row>
 		<Row>
 			<ModifierId>TRAIT_TECHNOLOGY_BOOST</ModifierId>
 			<Name>Amount</Name>
-			<Value>10</Value>
+			<Value>99</Value>
 			<Extra>-1</Extra>
 		</Row>
 		<Row>

@@ -3647,7 +3647,7 @@
 		<Row>
 			<ModifierId>TRAIT_ADJUST_BUILDER_CHARGES</ModifierId>
 			<Name>Amount</Name>
-			<Value>1</Value>
+			<Value>200</Value>
 		</Row>
 		<Row>
 			<ModifierId>TRAIT_ADJUST_INQUISITOR_CHARGES</ModifierId>
@@ -3682,7 +3682,7 @@
 		<Row>
 			<ModifierId>TRAIT_BUILDER_WONDER_PERCENT</ModifierId>
 			<Name>Amount</Name>
-			<Value>15</Value>
+			<Value>100</Value>
 		</Row>
 		<Row>
 			<ModifierId>TRAIT_BOOST_ENCAMPMENT_PRODUCTION</ModifierId>

@@ -722,13 +722,13 @@
 		<Row>
 			<ModifierId>TRAIT_CIVIC_BOOST</ModifierId>
 			<Name>Amount</Name>
-			<Value>10</Value>
+			<Value>99</Value>
 			<Extra>-1</Extra>
 		</Row>
 		<Row>
 			<ModifierId>TRAIT_TECHNOLOGY_BOOST</ModifierId>
 			<Name>Amount</Name>
-			<Value>10</Value>
+			<Value>99</Value>
 			<Extra>-1</Extra>
 		</Row>
 		<Row>
@@ -2121,8 +2121,8 @@
 		<Row CivilizationType="CIVILIZATION_BRAZIL" TraitType="TRAIT_CIVILIZATION_AMAZON"/>
 		<Row CivilizationType="CIVILIZATION_BRAZIL" TraitType="TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES"/>
 		<Row CivilizationType="CIVILIZATION_BRAZIL" TraitType="TRAIT_CIVILIZATION_STREET_CARNIVAL"/>
-		<Row CivilizationType="CIVILIZATION_CHINA" TraitType="TRAIT_CIVILIZATION_DYNASTIC_CYCLE"/>
-		<Row CivilizationType="CIVILIZATION_CHINA" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL"/>
+		<Row CivilizationType="CIVILIZATION_ENGLAND" TraitType="TRAIT_CIVILIZATION_DYNASTIC_CYCLE"/>
+		<Row CivilizationType="CIVILIZATION_ENGLAND" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL"/>
 		<Row CivilizationType="CIVILIZATION_CHINA" TraitType="TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER"/>
 		<Row CivilizationType="CIVILIZATION_EGYPT" TraitType="TRAIT_CIVILIZATION_ITERU"/>
 		<Row CivilizationType="CIVILIZATION_EGYPT" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX"/>

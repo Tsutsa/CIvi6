@@ -321,7 +321,7 @@
 		<Row ImprovementType="IMPROVEMENT_CHATEAU" YieldType="YIELD_CULTURE" YieldChange="2"/>
 		<Row ImprovementType="IMPROVEMENT_COLOSSAL_HEAD" YieldType="YIELD_FAITH" YieldChange="2"/>
 		<Row ImprovementType="IMPROVEMENT_COLOSSAL_HEAD" YieldType="YIELD_CULTURE" YieldChange="0"/>
-		<Row ImprovementType="IMPROVEMENT_GREAT_WALL" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_GREAT_WALL" YieldType="YIELD_FAITH" YieldChange="10"/>
 		<Row ImprovementType="IMPROVEMENT_GREAT_WALL" YieldType="YIELD_CULTURE" YieldChange="0"/>
 		<Row ImprovementType="IMPROVEMENT_KURGAN" YieldType="YIELD_GOLD" YieldChange="1"/>
 		<Row ImprovementType="IMPROVEMENT_KURGAN" YieldType="YIELD_FAITH" YieldChange="1"/>
